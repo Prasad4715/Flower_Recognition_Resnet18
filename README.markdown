@@ -1,5 +1,3 @@
-DATASET LINK --> [/kaggle/input/flowers-recognition](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition/data)
-
 # Flower Recognition Project
 
 This project trains a ResNet-18 model to classify 5 types of flowers (daisy, dandelion, rose, sunflower, tulip) using a Kaggle dataset. It is implemented in Google Colab with PyTorch and includes a Gradio interface for testing predictions. The model uses data augmentation, dropout, and early stopping to prevent overfitting and underfitting.
